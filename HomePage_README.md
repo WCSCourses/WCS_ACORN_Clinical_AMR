@@ -1,4 +1,4 @@
-<img src="https://coursesandconferences.wellcomeconnectingscience.org/wp-content/themes/wcc_courses_and_conferences/dist/assets/svg/logo.svg" width="300" height="50">
+<img src="https://github.com/WCSCourses/WCS_ACORN_Clinical_AMR/blob/main/WCS_ACORN_Logo.png" width="450" height="80">
 
 # Wellcome Connecting Science and ACORN Programme for Clinical AMR training
 
