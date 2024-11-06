@@ -1,4 +1,4 @@
-# <img src="course_data/WCS_ACORN_Logo.png"/>
+# <img src="https://github.com/WCSCourses/WCS_ACORN_Clinical_AMR/blob/main/WCS_ACORN_Logo.png"/>
 
 # Integrated AMR: From Genomic Analysis to Clinical Application - Africa & Asia
 
